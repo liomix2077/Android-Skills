@@ -1,6 +1,6 @@
 <h1 align="center">Android-Skills</h1>
 <p align="center">
-  <a href="https://github.com/01Vortex/Android-Skills/README.md">简体中文</a>
+  <a href="README.md">简体中文</a>
 </p>
 
 <p align="center">
