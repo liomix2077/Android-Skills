@@ -1,7 +1,7 @@
 
 <h1 align="center">Android-Skills</h1>
 <p align="center">
-  <a href="https://github.com/01Vortex/Android-Skills/blob/main/README-EN.md">English</a>
+  <a href="README-EN.md">English</a>
 </p>
 
 <p align="center">
